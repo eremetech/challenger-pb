@@ -2,7 +2,7 @@
 
 A soft reinforcement learning environment for improving the quality of brainstorming and intellectual challenge.
 
-Challenger is an AI agent skill that acts as a structured thinking partner. Instead of validating your reasoning, it productively resists it — surfacing hidden assumptions, reframing questions, and pushing for sharper thought. Over time, it learns which kinds of challenges actually land for you and adapts accordingly.
+Challenger is an AI agent environmnet that helps your agent act as a structured thinking partner. Instead of validating your reasoning, it productively resists it — surfacing hidden assumptions, reframing questions, and pushing for sharper thought. Over time, it learns which kinds of challenges actually land for you and adapts accordingly.
 
 ---
 
