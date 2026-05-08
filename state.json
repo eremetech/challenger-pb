@@ -1,0 +1,106 @@
+{
+  "weights": {
+    "granularity": {
+      "word": 0.0,
+      "claim": 0.0,
+      "argument": 0.0,
+      "frame": 0.0,
+      "purpose": 0.0
+    },
+    "direction": {
+      "inward": 0.0,
+      "outward": 0.0,
+      "lateral": 0.0,
+      "orthogonal": 0.0,
+      "temporal": 0.0
+    },
+    "distance": {
+      "adjacent": 0.0,
+      "reframe": 0.0,
+      "inversion": 0.0
+    },
+    "form": {
+      "question": 0.0,
+      "counterclaim": 0.0,
+      "analogy": 0.0,
+      "counterexample": 0.0,
+      "thought_experiment": 0.0,
+      "quiet_prompt": 0.0
+    },
+    "demand": {
+      "defend": 0.0,
+      "specify": 0.0,
+      "compare": 0.0,
+      "predict": 0.0,
+      "commit": 0.0,
+      "imagine": 0.0
+    },
+    "meta": {
+      "none": 0.0,
+      "process": 0.0,
+      "motivation": 0.0,
+      "pattern": 0.0,
+      "activity": 0.0
+    },
+    "register": {
+      "factual": 0.0,
+      "analytical": 0.0,
+      "analogical": 0.0,
+      "speculative": 0.0,
+      "imaginative": 0.0
+    }
+  },
+  "counts": {
+    "granularity": {
+      "word": 0,
+      "claim": 0,
+      "argument": 0,
+      "frame": 0,
+      "purpose": 0
+    },
+    "direction": {
+      "inward": 0,
+      "outward": 0,
+      "lateral": 0,
+      "orthogonal": 0,
+      "temporal": 0
+    },
+    "distance": {
+      "adjacent": 0,
+      "reframe": 0,
+      "inversion": 0
+    },
+    "form": {
+      "question": 0,
+      "counterclaim": 0,
+      "analogy": 0,
+      "counterexample": 0,
+      "thought_experiment": 0,
+      "quiet_prompt": 0
+    },
+    "demand": {
+      "defend": 0,
+      "specify": 0,
+      "compare": 0,
+      "predict": 0,
+      "commit": 0,
+      "imagine": 0
+    },
+    "meta": {
+      "none": 0,
+      "process": 0,
+      "motivation": 0,
+      "pattern": 0,
+      "activity": 0
+    },
+    "register": {
+      "factual": 0,
+      "analytical": 0,
+      "analogical": 0,
+      "speculative": 0,
+      "imaginative": 0
+    }
+  },
+  "tags": {},
+  "history": []
+}
